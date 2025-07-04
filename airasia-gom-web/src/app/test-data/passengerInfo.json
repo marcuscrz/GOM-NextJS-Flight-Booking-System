@@ -1,0 +1,62 @@
+[
+  {
+    "idNumber": "G01AA1302",
+    "passengerFullName": "Amisya Humaira Mohd Adnan",
+    "department": "Financial",
+    "email": "amisya123@yahoo.com",
+    "familyMembers": [
+      {
+        "familyMemberName": "Mohd Yusuf Mohd Daud",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Mohd Saifullah Mohd Yusuf",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Nur Alia Mohd Yusuf",
+        "passengerType": "Adult"
+      }
+    ]
+  },
+  {
+    "idNumber": "G01AA1403",
+    "passengerFullName": "Mohd Saiful Mohd Arif",
+    "department": "Financial",
+    "email": "saiful987@gmail.com",
+    "familyMembers": [
+      {
+        "familyMemberName": "Mohd Hadi Mohd Saiful",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Noor Syifa Iman Mohd Saiful",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Nur Aina Ahmad Majid",
+        "passengerType": "Adult"
+      }
+    ]
+  },
+  {
+    "idNumber": "G01AA1503",
+    "passengerFullName": "Dania Maisarah Mohd Izzuddin",
+    "department": "Financial",
+    "email": "maisarah654@yahoo.com",
+    "familyMembers": [
+      {
+        "familyMemberName": "Siti Zainab Ahmad Rais",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Nur Syarifah Hanim Ahmad Rais",
+        "passengerType": "Adult"
+      },
+      {
+        "familyMemberName": "Ahmad Rais Mohd Amran",
+        "passengerType": "Adult"
+      }
+    ]
+  }
+]

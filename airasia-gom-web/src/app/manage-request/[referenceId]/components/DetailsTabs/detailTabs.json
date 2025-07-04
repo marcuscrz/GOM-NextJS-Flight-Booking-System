@@ -1,0 +1,19 @@
+[
+    {
+        "key": 1,
+        "label": "Details"
+        
+    },
+    {
+        "key": 2,
+        "label": "Passengers"
+    },
+    {
+        "key": 3,
+        "label": "Warrant"
+    },
+    {
+        "key": 4,
+        "label": "Log"
+    }
+]

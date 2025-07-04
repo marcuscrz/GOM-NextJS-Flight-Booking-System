@@ -1,0 +1,42 @@
+{
+  "tripType": "Round-trip",
+  "origin": "Kuala lumpur (KUL)",
+  "destination": "Incheon International Airport (ICN)",
+  "departureDate": "2025-05-20T14:20:00.000Z",
+  "returnDate": "2025-05-25T14:20:00.000Z",
+  "adult": 2,
+  "child": 3,
+  "infant": 1,
+  "cabinType": "Premium Flatbed",
+  "currency": "MYR",
+  "expectedFare": 100,
+  "pukalNumber": 2837182372,
+  "objectNumber": 2938129389,
+  "departureBaggage": 40,
+  "departureEquipment": 20,
+  "returnBaggage": 40,
+  "returnEquipment": 20,
+  "travelAgency": [1, 2],
+  "departureFlightSchedules": [
+    "uuid-MOCK-87892794238234", "uuid-MOCK-8789275548234"
+  ],
+  "returnFlightSchedules" :[
+    "uuid-MOCK-8789275548234", "uuid-MOCK-8789279485556334"
+  ],
+  "isFlexibaleWithDates": true,
+  "remarks": "A test remarks",
+  "passengers" : [
+    {
+      "id": "uuid-123829bhh3u1293",
+      "familyMembers": ["uuid-123829bhh3u1294", "uuid-123829bhh3u1295", "uuid-123829bhh3u1296"]
+    },
+    {
+      "id": "uuid-123829bhh3u1297",
+      "familyMembers": ["uuid-123829bhh3u1298"]
+    },
+    {
+      "id": "uuid-123829bhh3u1271",
+      "familyMembers": ["uuid-123829bhh3u1274"]
+    }
+  ]
+}

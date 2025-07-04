@@ -1,0 +1,100 @@
+{
+  "origin": "Kuala Lumpur(KUL)",
+  "originShortName": "KUL",
+  "destination": "Incheon International Airport (ICN)",
+  "destinationShortName": "ICN",
+  "departureDate": "10/02/2025",
+  "returnDate": "10/05/2025",
+  "departureSchedule": [
+    {
+      "id": "uuid-MOCK-87892794238234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-878927943458234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "12:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-8789275548234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-8789279485556334",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    }
+  ],
+  "returnSchedule": [
+    {
+      "id": "uuid-MOCK-87592794266234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-8789279448234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-8789275548234",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    },
+    {
+      "id": "uuid-MOCK-8789279485556334",
+      "flightName": "China Eastern Airlines",
+      "model": "MU 6022",
+      "departureTime": "01:55",
+      "arrivalTime": "13:30",
+      "duration": "10h 30m",
+      "transitTime": "3h 5m",
+      "stop": 1,
+      "transitLocation": "Shanghai Pudong"
+    }
+  ]
+}
